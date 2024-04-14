@@ -47,3 +47,22 @@
  1. redis
  2. Mysql
  3. oracel
+
+ |姓名|年龄|技能|武力值|
+ --|:--:|--:
+ |刘备|32|臂展长|66|
+ |张飞|29|俺也一样|87|
+ |关羽|30|疼痛忍耐|99|
+### 超链接\[超链接标题\](链接地址“悬停标题”)
+[百度搜索](https://www.baidu.com"点击进入百度")
+### 插入图片 \!\[图片标题\](图片地址“悬停标题”)
+
+### 插入代码片段 c cpp python java bash
+```c
+	#include<stdio.h>
+	#include<unistd.h>
+	int main(){
+		printtf("c testing code..\n")
+	return 0;
+	}
+```
